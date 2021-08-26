@@ -1,6 +1,3 @@
-
-# Clima ☁
-
 ## Our Goal
 
 The objective of this project is to learn about asynchronous programming in Dart. 
